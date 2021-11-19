@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  park.cpp
+f:\sistemasoperativosii\park\park\parking2.h(15): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 3 tiene el tipo 'LPVOID'
+f:\sistemasoperativosii\park\park\park.cpp(133): warning C4101: 'i': variable local sin referencia
+f:\sistemasoperativosii\park\park\park.cpp(139): warning C4101: 'i': variable local sin referencia
+f:\sistemasoperativosii\park\park\park.cpp(217): warning C4101: 'temp': variable local sin referencia
+f:\sistemasoperativosii\park\park\park.cpp(448): warning C4101: 'temp': variable local sin referencia
+f:\sistemasoperativosii\park\park\park.cpp(537): warning C4101: 'temp': variable local sin referencia
+f:\sistemasoperativosii\park\park\park.cpp(624): warning C4101: 'temp': variable local sin referencia
+  park.vcxproj -> F:\SistemasOperativosII\park\Debug\park.exe

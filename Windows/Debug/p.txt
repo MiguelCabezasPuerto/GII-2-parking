@@ -1,0 +1,26 @@
+En DllMain
+Llamo a aparcar 1
+
+Llamo a aparcar 2
+
+Llamo a aparcar 3
+
+Llamo a desaparcar 1
+
+Llamo a aparcar 4
+
+Llamo a desaparcar 2
+
+Llamo a aparcar 5
+
+Llamo a aparcar 6
+
+Llamo a aparcar 7
+
+Llamo a desaparcar 3
+
+Llamo a desaparcar 4
+
+Llamo a aparcar 8
+
+^C
